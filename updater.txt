@@ -3,11 +3,10 @@
     {
  "version":"7.27.0",
  "title":"Update Tersedia",
- "description":"Mod Shopee Driver recommends that you
-update to the latest version 7.27.0 You
-can keep online the app while
-downloading the update.",
-"download":"https://drive.google.com/file/d/111zg5HqFSWo-3U5EhE_R_xplxpc3_mKA/view?usp=drivesdk"
+ "description":"Salmod Shopee Driver merekomendasikan Anda
+perbarui ke versi terbaru 7.27.0 Silahkan Klik Perbarui
+mengunduh pembaruan.",
+"download":"https://t.me/Cukup_pinot"
 }
   ]
 }
