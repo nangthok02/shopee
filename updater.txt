@@ -1,10 +1,10 @@
 {
-  "shopee_update": [
+  "salshopee_update": [
     {
- "version":"6.93.0",
+ "version":"7.27.0",
  "title":"Update Tersedia",
  "description":"Mod Shopee Driver recommends that you
-update to the latest version 6.93.0 You
+update to the latest version 7.27.0 You
 can keep online the app while
 downloading the update.",
 "download":"https://drive.google.com/file/d/111zg5HqFSWo-3U5EhE_R_xplxpc3_mKA/view?usp=drivesdk"
