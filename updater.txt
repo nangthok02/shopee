@@ -3,9 +3,7 @@
     {
  "version":"7.27.0",
  "title":"Update Tersedia",
- "description":"Salmod Shopee Driver merekomendasikan Anda
-perbarui ke versi terbaru 7.27.0 Silahkan Klik Perbarui
-mengunduh pembaruan.",
+ "description":"Salmod Shopee Driver Mod Anda Membutuhkan versi terbaru! versi saat ini 7.27.0",
 "download":"https://t.me/Cukup_pinot"
 }
   ]
