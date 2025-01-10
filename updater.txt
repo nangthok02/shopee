@@ -1,7 +1,7 @@
 {
   "salshopee_update": [
     {
- "version":"7.26.0",
+ "version":"7.27.0",
  "title":"Update Tersedia",
  "description":"Salmod Shopee Driver
 Mod Anda Membutuhkan versi terbaru! versi saat ini 7.27.0",
