@@ -4,7 +4,7 @@
  "version":"7.29.0",
  "title":"Update Tersedia",
  "description":"Salmod Shopee Driver
-Mod Anda Membutuhkan versi terbaru! versi saat ini 7.29.0",
+Mod Anda Membutuhkan versi terbaru! versi saat ini 7.32.1",
 "download":"https://t.me/Cukup_pinot"
 }
   ]
